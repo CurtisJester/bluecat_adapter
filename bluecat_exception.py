@@ -1,0 +1,2 @@
+class BluecatAdapterException(Exception):
+    pass
